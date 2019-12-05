@@ -1,0 +1,25 @@
+
+h2
+{
+	color: #ffc;
+	background-color: #009;
+	font-family: arial;
+	font-variant: small-caps;
+	margin: 20px;
+	padding: 40px;
+	border-style: dashed;
+    border-width: 3px;
+    border-left-width: 10px;
+    border-right-width: 10px;
+    border-color: red;
+}
+#navigation {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 200px;
+}
+
+#content {
+    margin-left: 200px;
+}
